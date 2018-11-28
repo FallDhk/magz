@@ -35,7 +35,7 @@ def inscription():
 
 
 app=tkinter.Tk()
-app.geometry("1500x700")
+app.geometry("500x400")
 app.title("marsa")
 
 mainmenu=tkinter.Menu(app)
